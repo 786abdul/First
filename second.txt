@@ -1,5 +1,0 @@
-
-hi this is the seconfd file
-
-hi this example for merge 
-hi this is the second file
